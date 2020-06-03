@@ -2,8 +2,8 @@
 LIFE EXPECTANCY
 
 ## AUTHOR
-#Sharon Chebet..
-##pau
+#  sha
+# pa
 
 
 ## PROJECT DESCRIPTION
