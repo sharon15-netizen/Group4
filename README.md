@@ -2,8 +2,8 @@
 LIFE EXPECTANCY
 
 ## AUTHOR
-**Sharon Chebet
-**Stella 
+* s
+* f 
 z
 
 
