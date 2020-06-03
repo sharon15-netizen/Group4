@@ -26,7 +26,7 @@ Data inconsistency which resulted fom missing data.
  Phyton pandas and google suite
   
   ## SUPPORT AND CONTACT DETAILS.
-If you run into any issues or have questions, ideas or concerns.You can reach us through [https://docs.google.com/document/d/1rit0O3yXqkmyQtX3tvTC1YLOQFM2mm9QtnJx3qcxvZs/edit?usp=sharing]
+If you run into any issues or have questions, ideas or concerns.You can reach us through the emails on the link below.  [https://docs.google.com/document/d/1rit0O3yXqkmyQtX3tvTC1YLOQFM2mm9QtnJx3qcxvZs/edit?usp=sharing]
   
   ## LICENCE
   
