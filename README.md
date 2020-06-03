@@ -2,11 +2,12 @@
 LIFE EXPECTANCY
 
 ## AUTHOR
-###Sharon Chebet
-###stella
+#Sharon Chebet,
+PAULINE
+
 
 ## PROJECT DESCRIPTION
-Life expectancy refers to the number of years a person is expected to live based on the statistical average.It does measures the situation of a country as countries with good health systems has high life expectancy.AS data scientiest we have been tasked to come up with recommendation to the developing countries on how they shoiuld impove thei health systems.We will do this by studying the given dcata set
+Life expectancy refers to the number of years a person is expected to live based on the statistical average.It does measures the situation of a country as countries with good health systems has high life expectancy.AS data scientiest we have been tasked to come up with recommendation to the developing countries on how they shoiuld impove thei health systems.We will do this by studying the given data set
 ## SetUP/ Installation Requirements
 clone the repo here []
 Navigate the poject directory using
