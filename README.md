@@ -2,7 +2,7 @@
 LIFE EXPECTANCY
 
 ## AUTHOR
-#Sharon Chebet,
+#Sharon Chebet..
 PAULINE
 
 
