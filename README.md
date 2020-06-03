@@ -2,8 +2,8 @@
 LIFE EXPECTANCY
 
 ## AUTHOR
-*Sharon Chebet
-*Stella 
+**Sharon Chebet
+**Stella 
 
 
 ## PROJECT DESCRIPTION
