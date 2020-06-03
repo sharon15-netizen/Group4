@@ -19,14 +19,14 @@ Life expectancy refers to the number of years a person is expected to live based
   * Pandas
   * colab Notebook
   
-  ## KNOWN BUGS
-  There is a lot of missing data.
+## KNOWN BUGS
+Data inconsistency which resulted fom missing data.
   
  ## TECHNOLOGIES USED
  Phyton pandas and google suite
   
   ## SUPPORT AND CONTACT DETAILS.
- If you run into any issues or have questions, ideas or concerns.You can reach me though my email chebetsharon15@gmail.com.
+If you run into any issues or have questions, ideas or concerns.You can reach us through [https://docs.google.com/document/d/1rit0O3yXqkmyQtX3tvTC1YLOQFM2mm9QtnJx3qcxvZs/edit?usp=sharing]
   
   ## LICENCE
   
