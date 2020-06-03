@@ -9,10 +9,10 @@ LIFE EXPECTANCY
 * Kennedy Muriuki
 * Catherine Muraya
 * Job Jagongo
-* Jeff 
+* Jeff Omondi
 
 ## PROJECT DESCRIPTION
-Life expectancy refers to the number of years a person is expected to live based on the statistical average.It does measures the situation of a country as countries with good health systems has high life expectancy.AS data scientiest we have been tasked to come up with recommendation to the developing countries on how they shoiuld impove thei health systems.We will do this by studying the given data set
+Life expectancy refers to the number of years a person is expected to live based on the statistical average.It does measures the situation of a country as countries with good health systems has high life expectancy.As data scientiest we have been tasked to come up with recommendation to the developing countries on how they shoiuld impove thei health systems.We will do this by studying the given data set
 ## SetUP/ Installation Requirements
 * clone the repo here [https://github.com/sharon15-netizen/Group4]
 * Navigate the poject directory using
