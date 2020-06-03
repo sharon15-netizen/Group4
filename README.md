@@ -14,13 +14,13 @@ LIFE EXPECTANCY
 ## PROJECT DESCRIPTION
 Life expectancy refers to the number of years a person is expected to live based on the statistical average.It does measures the situation of a country as countries with good health systems has high life expectancy.AS data scientiest we have been tasked to come up with recommendation to the developing countries on how they shoiuld impove thei health systems.We will do this by studying the given data set
 ## SetUP/ Installation Requirements
-* clone the repo here []
+* clone the repo here [https://github.com/sharon15-netizen/Group4]
 * Navigate the poject directory using
   * Pandas
   * colab Notebook
   
 ## KNOWN BUGS
-Data inconsistency which resulted fom missing data.
+Data inconsistency which resulted from missing data.
   
  ## TECHNOLOGIES USED
  Phyton pandas and google suite
