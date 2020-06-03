@@ -1,19 +1,23 @@
 ## PROJECT TITLE
 LIFE EXPECTANCY
 
-## AUTHOR
-* s
-* f 
-z
-
+## AUTHORS
+* Sharon Chebet
+* Faith Gakori
+* Stella Kimani
+* Pauline Gechure
+* Kennedy Muriuki
+* Catherine Muraya
+* Job Jagongo
+* Jeff 
 
 ## PROJECT DESCRIPTION
 Life expectancy refers to the number of years a person is expected to live based on the statistical average.It does measures the situation of a country as countries with good health systems has high life expectancy.AS data scientiest we have been tasked to come up with recommendation to the developing countries on how they shoiuld impove thei health systems.We will do this by studying the given data set
 ## SetUP/ Installation Requirements
-clone the repo here []
-Navigate the poject directory using
-  Pandas
-  colab Notebook
+* clone the repo here []
+* Navigate the poject directory using
+  * Pandas
+  * colab Notebook
   
   ## KNOWN BUGS
   There is a lot of missing data.
