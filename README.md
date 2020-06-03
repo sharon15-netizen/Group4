@@ -3,7 +3,7 @@ LIFE EXPECTANCY
 
 ## AUTHOR
 #Sharon Chebet..
-PAULINE
+  pau
 
 
 ## PROJECT DESCRIPTION
